@@ -463,13 +463,6 @@ If you are greatly interested, more on LaTeX can be found [here](http://www.late
 
  [![](http://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl-badge-1.png)](http://www.wtfpl.net/)
 
-**DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE**
 Copyright (C) 2016 Luong Vo
 Everyone is permitted to copy and distribute verbatim or modified copies of this license document, and changing it is allowed as long as the name is changed.
-TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION : You just DO WHAT THE FUCK YOU WANT TO.  
-
-
-
-<div id='donation'/>
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=5ZG5Z47L2ZGYC)
-A beer in your country can buy a meal in mine.
+TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION.
